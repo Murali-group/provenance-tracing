@@ -25,9 +25,9 @@ To verify that the environment and its dependencies are set up correctly, you ca
 conda list
 ```
 
-## Download Processed Dataset
-Datasets used in this study will be uploaded to Zenodo ( TODO ). 
 
+## Download Processed Dataset
+Datasets used in this study has been uploaded to [Zenodo repository](https://doi.org/10.5281/zenodo.16423354).
 
 ## How to Run
 
